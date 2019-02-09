@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4in"
+   height="3.2in"
+   viewBox="0 0 4 3.2000001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="January Board Outline.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="215.98137"
+     inkscape:cy="156.88231"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1229"
+     inkscape:window-height="969"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="in"
+     scale-x="0.2"
+     showguides="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:lockguides="false"
+     inkscape:pagecheckerboard="false"
+     showborder="true"
+     inkscape:showpageshadow="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid850"
+       spacingx="0.01"
+       spacingy="0.01"
+       empspacing="10"
+       color="#2edcff"
+       opacity="0.41176471"
+       empcolor="#0000d3"
+       empopacity="0.47058824"
+       units="in" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <clipPath
+       id="tongue">
+      <rect
+         id="rect1386"
+         height="60"
+         width="160"
+         y="220"
+         x="220" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="BOARD"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-182.86)">
+    <path
+       id="path1694"
+       d="M0.79999995 184.36L0.805935373173 184.296462816L0.829906914735 184.236854607L0.875892259562 184.193584927L0.933698116626 184.168396731L0.994955052045 184.151420805L1.057297474 184.134186463L1.11593209694 184.111763232L1.16989529236 184.079969355L1.21710952858 184.036534513L1.254078 183.98446"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1692"
+       d="M1.254078 183.98446L1.28081776179 183.926038181L1.29462108372 183.864521297L1.29521564574 183.800705601L1.28510642621 183.738054517L1.26903346812 183.676285972L1.25304561313 183.614377184L1.24615637623 183.55029772L1.26147464723 183.489126109L1.30057095263 183.440027998L1.352268 183.40344"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1690"
+       d="M1.352268 183.40344L1.41025984738 183.376812843L1.47386723429 183.367770193L1.53433221907 183.385961367L1.58504878371 183.423429855L1.63037911094 183.467992868L1.67647617377 183.513366444L1.72521317893 183.552934237L1.77972979076 183.583770867L1.84095335872 183.602941995L1.9045362 183.60892"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1688"
+       d="M1.9045362 183.60892L1.96849982988 183.602866912L2.02867594168 183.584062639L2.08423881953 183.552669437L2.13344151169 183.512588431L2.17889821683 183.467783657L2.22451897488 183.422982259L2.27656875022 183.384975059L2.33720357933 183.367654264L2.39927101118 183.376963107L2.4568045 183.40344"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1686"
+       d="M2.4568045 183.40344L2.50886094186 183.440349842L2.54849679778 183.490914712L2.5629764347 183.55237442L2.55588712688 183.615029952L2.539960496 183.676568039L2.52371510954 183.739175551L2.51381746289 183.801166741L2.51437085015 183.863798054L2.52838015402 183.926405501L2.5549945 183.98446L2.59221836794 184.03682657L2.63859115662 184.079537219L2.69355946857 184.111958076L2.75287137177 184.134527023L2.81440101942 184.151490232L2.87600960617 184.168597722L2.93494857501 184.194670934L2.98026507023 184.238523615L3.00323612596 184.296932868L3.0090725 184.36"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1684"
+       d="M3.0090725 184.36L3.00313707385 184.423537184L2.9791655275 184.483145393L2.93318017744 184.526415073L2.87537431733 184.551603269L2.81411738228 184.568579195L2.75177496478 184.585813537L2.69314035064 184.608236768L2.63917716871 184.640030645L2.59196295059 184.683465487L2.5549945 184.73554"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1682"
+       d="M2.5549945 184.73554L2.52825473821 184.793961819L2.51445141628 184.855478703L2.51385685426 184.919294399L2.52396607379 184.981945483L2.54003903188 185.043714028L2.55602688687 185.105622816L2.56291612377 185.16970228L2.54759785277 185.230873891L2.50850154737 185.279972002L2.4568045 185.31656L2.39881265262 185.343187348L2.33520526571 185.352230749L2.27474028093 185.33404096L2.22402371629 185.296574118L2.17869338906 185.252012731L2.13259632623 185.20664066L2.08385932107 185.167074104L2.02934270924 185.136238401L1.96811914128 185.117067834L1.9045363 185.11109"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1680"
+       d="M1.9045363 185.11109L1.8405726502 185.117142915L1.78039652386 185.135946637L1.72483363779 185.167338896L1.67563094404 185.207418648L1.63017424296 185.252221935L1.58455349351 185.297021697L1.53250372999 185.335027216L1.47186891223 185.352346644L1.40980148699 185.343037081L1.352268 185.31656"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1678"
+       d="M1.352268 185.31656L1.30021155814 185.279650158L1.26057570222 185.229085288L1.2460960653 185.16762558L1.25318537312 185.104970048L1.269112004 185.043431961L1.28535739046 184.980824449L1.29525503711 184.918833259L1.29470164985 184.856201946L1.28069234598 184.793594499L1.254078 184.73554"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1676"
+       d="M1.254078 184.73554L1.21685413136 184.68317343L1.17048134044 184.640462781L1.11551302459 184.608041924L1.05620111609 184.585472977L0.994671461968 184.568509768L0.933062867801 184.551402278L0.87412389079 184.525329066L0.82880738801 184.481476385L0.805836327041 184.423067132L0.79999995 184.36"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1522"
+       d="M0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36C0.79999995 184.36 0.79999995 184.36 0.79999995 184.36"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
