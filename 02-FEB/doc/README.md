@@ -39,8 +39,13 @@ was done for this board went something like:
   * When importing in Eagle, match the name to the layer
 
 For example, these were the BMPs used for the top silk layer:
+
 <img src="tPlace.bmp" height=150px>
+
 and the top stop layer:
+
 <img src="tStop.bmp" height=150px>
+
 which combined to form the white silk and exposed copper:
+
 <img src="feb_pcb_front.png" height=150px>
