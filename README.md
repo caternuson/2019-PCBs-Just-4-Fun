@@ -10,7 +10,7 @@ USB powered tamagotchi thing with an ATtiny85 brain.
 A backlit commemorative plaque thing.
 
 # March
-<img src="./03-MAR/doc/mar_pcb_front.png" height=150px/> <img src="./03-MAR/doc/mar_pcb_back.png" height=150px/>
+<img src="./03-MAR/doc/mar_pcb_front.png" height=150px/> <img src="./03-MAR/doc/mar_pcb_back.png" height=150px/><br/>
 An IoT pyramid thing.
 
 # April
@@ -18,9 +18,9 @@ An IoT pyramid thing.
 Optical encoder reader with SPI interface.
 
 # May
-<img src="./05-MAY/doc/may_pcb_front.png" height=150px/> <img src="./05-MAY/doc/may_pcb_back.png" height=150px/>
+<img src="./05-MAY/doc/may_pcb_front.png" height=150px/> <img src="./05-MAY/doc/may_pcb_back.png" height=150px/><br/>
 Terminal block to breadboard adapter.
 
 # June
-<img src="./06-JUN/doc/jun_pcb_front.png" height=150px/> <img src="./06-JUN/doc/jun_pcb_back.png" height=150px/>
+<img src="./06-JUN/doc/jun_pcb_front.png" height=150px/> <img src="./06-JUN/doc/jun_pcb_back.png" height=150px/><br/>
 JST PH 4 to breadboard adapter.
