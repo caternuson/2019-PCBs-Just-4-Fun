@@ -12,6 +12,9 @@ This process could be generalized to anything that produces a BMP. However, usin
   * Set DPI, ex: 300
 * Gimp
   * Convert PNG to BMP
+  * Reduce colors
+    * Image -> Mode -> Indexed
+    * set Maximum number of colors to something small
   * since Inkscape only exports PNG and Eagle only imports BMP
 * Eagle
   * File -> Import -> Bitmap...
