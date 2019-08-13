@@ -24,3 +24,7 @@ Terminal block to breadboard adapter.
 # June
 <img src="./06-JUN/doc/jun_pcb_front.png" height=150px/> <img src="./06-JUN/doc/jun_pcb_back.png" height=150px/><br/>
 JST PH 4 to breadboard adapter.
+
+# July
+<img src="./07-JUL/doc/jul_pcb_front.png" height=150px/> <img src="./07-JUL/doc/jul_pcb_back.png" height=150px/><br/>
+JST SH 4 to breadboard adapter.

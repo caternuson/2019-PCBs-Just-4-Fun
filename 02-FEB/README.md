@@ -10,12 +10,15 @@ This process could be generalized to anything that produces a BMP. However, usin
   * Make drawing
   * Export PNG
   * Set DPI, ex: 300
-* Gimp
-  * Convert PNG to BMP
-  * Reduce colors
-    * Image -> Mode -> Indexed
-    * set Maximum number of colors to something small
+* Convert to BMP
   * since Inkscape only exports PNG and Eagle only imports BMP
+  * linux convert
+    * `convert bitmap.png -background white -alpha remove -alpha off -colors 2 bitmap.bmp`
+  * Gimp (old)
+    * Convert PNG to BMP
+    * Reduce colors
+      * Image -> Mode -> Indexed
+      * set Maximum number of colors to something small
 * Eagle
   * File -> Import -> Bitmap...
   * match DPI to above
